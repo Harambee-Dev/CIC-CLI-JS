@@ -79,3 +79,10 @@ NAME : BNTToken
 CONTRACT ADDESS : 0x35e5C586DfA4b73492708803763F86EE011FB253
 ```
 
+### script.js helps you to execute every single function indepndenty
+```
+// you need to uncomment the functions calls and execute the script
+
+$ node script.js
+```
+
